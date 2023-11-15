@@ -1,0 +1,10 @@
+C:\Users\nazir\source\repos\credito\credito\bin\Debug\credito.exe.config
+C:\Users\nazir\source\repos\credito\credito\bin\Debug\credito.exe
+C:\Users\nazir\source\repos\credito\credito\bin\Debug\credito.pdb
+C:\Users\nazir\source\repos\credito\credito\obj\Debug\credito.csproj.AssemblyReference.cache
+C:\Users\nazir\source\repos\credito\credito\obj\Debug\credito.Form1.resources
+C:\Users\nazir\source\repos\credito\credito\obj\Debug\credito.Properties.Resources.resources
+C:\Users\nazir\source\repos\credito\credito\obj\Debug\credito.csproj.GenerateResource.cache
+C:\Users\nazir\source\repos\credito\credito\obj\Debug\credito.csproj.CoreCompileInputs.cache
+C:\Users\nazir\source\repos\credito\credito\obj\Debug\credito.exe
+C:\Users\nazir\source\repos\credito\credito\obj\Debug\credito.pdb
